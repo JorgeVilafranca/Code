@@ -1,0 +1,21 @@
+Anaconda extension pack - Programar en python
+auto rename tag - renombra la etiqueta de cierre
+auto close tag - cierra automaticamente las etiquetas
+Azure repos - conectar con controles de versiones
+Bookmarks - marcar lineas de codigo y saltar a ellas
+bootstrap 5 snippets - guia de codigo
+code runner - ejecutar lineas de codigo y ver el resultado en el terminal
+Prettier
+live server
+dotenv - marcar con colores las variables de entorno
+error lens - para indicar el error en una linea y no en un tooltip
+ES7 + React/Redux/React-Native snippets - guia de codigo
+highlight matching tag - marcar las etiquetas por las que estas con el cursor
+image preview - previsualizacion de una imagen
+indent-rainbow - colorear las tabulaciones
+javascript (es6) code snippets - guia de codigo
+live server - crea un servidor para ver las pagina web
+material icon theme - iconos
+path intellisense - autocompletar nombres de ficheros
+prettier - formatear el documento
+settings sync - sincronizar el perfil de vscode
