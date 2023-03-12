@@ -34,3 +34,13 @@
 
 - Comentario
     <code>SHIFT + ALT + A | CTRL + ç</code>
+
+- snippets: abreviación de un comando<br>
+
+- intellisense: sugerencias de código<br>
+
+- Abrir un archivo del proyecto:<br>
+    <code>CTRL + P</code>
+
+- Seleccionar archivo en el explorador:<br>
+    <code>CTRL + SHIFT + E</code>
